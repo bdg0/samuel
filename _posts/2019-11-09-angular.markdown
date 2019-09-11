@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Angular"
-date:   2019-11-09 17:42:22 +0100
+date:   2019-11-09 16:42:22 +0100
 categories: webdev learning
 ---
 
